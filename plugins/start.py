@@ -1,4 +1,4 @@
-#(©)Codexbotz
+#(©)Izanagi ID
 
 import asyncio
 from pyrogram import Client, filters, __version__
